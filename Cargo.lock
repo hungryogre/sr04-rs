@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "sr04"
+name = "sr04_rs"
 version = "0.1.0"
 dependencies = [
  "rppal",
